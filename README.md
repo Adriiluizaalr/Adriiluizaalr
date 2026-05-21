@@ -1,16 +1,34 @@
-## Hi there 👋
+୨ৎ Oii, eu sou a Adrieli  
 
-<!--
-**Adriiluizaalr/Adriiluizaalr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+୨ৎ Estudando Python aos 15 anos 
 
-Here are some ideas to get you started:
+୨ৎ Bem-vindo(a) ao meu perfil no GitHub 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ ୨ৎ  Sobre mim: ୨ৎ
+
+- Meu nome é Adrieli  
+- Tenho 15 anos  
+- Estou no módulo 2 do curso de Python  
+- Aprendendo o básico da programação
+- Tenho 1,56 de altura  
+- Gosto de aprender cada dia mais  
+- adquirindo conhecimento ao mundo da tecnologia  
+
+---
+
+minhas Redes sociais:
+
+instagram- @lluiza.lr 
+tiktok- @luiza.zxp
+
+
+
+୨ৎ Obrigada por visitar meu perfil    
+୨ৎ Volte sempre  
+୨ৎ Estudando Python aos 15 anos 
+
+ 
+  
+
+ 
