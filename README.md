@@ -2,17 +2,17 @@
 
 ୨ৎ Oii, eu sou a Adrieli ୨ৎ
 
-💜 Apaixonada por tecnologia e pela cor roxa 
+୨ৎ Apaixonada por tecnologia e pela cor roxa 
 
 ✨ Bem-vindo(a) ao meu perfil no GitHub ✨
 
-🌸 Sobre mim
+ Sobre mim
 
-💜 Minha cor favorita é roxo  
-🎀 Tenho 15 anos   
-📚 Estou no módulo 2 do curso de programação em Python  
-🐍 Aprendendo o básico da programação  
-💻 Construindo meu caminho no mundo da tecnologia
+୨ৎ Minha cor favorita é roxo  
+୨ৎ Tenho 15 anos   
+୨ৎ Estou no módulo 2 do curso de programação em Python  
+୨ৎ Aprendendo o básico da programação  
+୨ৎ Construindo meu caminho no mundo da tecnologia
 
 📱 Redes sociais
 
