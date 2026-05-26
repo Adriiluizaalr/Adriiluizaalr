@@ -1,8 +1,8 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lxYncxc2hsYmxsZmxoYjkxYWhlZDBlY3o4MHhpeHR6bDVrbmpzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N2YxIJpkEHdO2JKtMQ/giphy.gif" width="500px">
 
-୨ৎ Oii, eu sou a Adrieli ୨ৎ
+🍬 Oii, eu sou a Adrieli 
 
-୨ৎ Apaixonada por tecnologia e pela cor roxa 
+⚕️ Apaixonada por tecnologia e pela cor roxa 
 
 ✨ Bem-vindo(a) ao meu perfil no GitHub ✨
 
